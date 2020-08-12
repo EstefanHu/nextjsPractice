@@ -1,0 +1,34 @@
+
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# IDE artifacts
+._.DS_store
+.DS_Store
+.idea
+
+# Build artifacts
+node_modules
+build
+dist
+
+# Debug
+npm-debug.log
+firebase-debug.log
+
+# Tool State
+.eslintcache
+*unison.*
+yarn-error.log
+.firebase
